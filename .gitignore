@@ -168,3 +168,4 @@ data-sources.json
 trivy.json
 grype.json
 /.vscode/
+build/
